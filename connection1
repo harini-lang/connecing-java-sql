@@ -1,4 +1,4 @@
-ckage jbdc1.demo;
+package jbdc1.demo;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
